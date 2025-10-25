@@ -131,3 +131,4 @@ Below are sample outputs and visualizations from the Property Type Prediction No
 
 <img width="1349" height="452" alt="violinplot_bd_bath_processed" src="https://github.com/user-attachments/assets/bef0ffb3-d105-4e11-a63d-db0fbcbd24a7" />
 
+<img width="1400" height="1000" alt="distribution_property_type_by_city" src="https://github.com/user-attachments/assets/3ef05538-3221-4d9c-a4ab-991dc317dcd4" />
