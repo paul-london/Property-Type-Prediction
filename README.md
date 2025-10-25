@@ -120,7 +120,7 @@ Special thanks to Berkshire Hathaway HomeServices, mentor [Dr. Ernest Bonat](htt
 
 ## 🔒 Data Privacy Notice
 
-This repository does not include any proprietary, private, or real-world client data.
+This repository does not include any proprietary, private, or real-world client data. Therefore, results and visualizations will not match those of the original data.
 All data are synthetic to protect confidentiality.
 
 ---
