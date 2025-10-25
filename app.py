@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from lightgbm import LGBMClassifier
-from Data_Cleaning_Pipeline import clean_and_engineer_features
+from scripts.Data_Cleaning_Pipeline import clean_and_engineer_features
 import pickle
 
 # Establishing constants
@@ -126,3 +126,4 @@ if file is not None:
             on_click = "ignore",
             icon = ":material/download:"
         )
+
