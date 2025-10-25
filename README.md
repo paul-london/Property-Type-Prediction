@@ -129,8 +129,9 @@ All data are synthetic to protect confidentiality.
 
 Below are sample outputs and visualizations from the [HomeServices Notebook](https://github.com/paul-london/Property-Type-Prediction/blob/main/HomeServices_Notebook.ipynb):
 
-<img width="1349" height="452" alt="violinplot_bd_bath_processed" src="https://github.com/user-attachments/assets/bef0ffb3-d105-4e11-a63d-db0fbcbd24a7" />
+<img width="1298" height="455" alt="violin" src="https://github.com/user-attachments/assets/a4280279-844a-4947-b785-923589095a20" />
 
-<img width="1400" height="1000" alt="distribution_property_type_by_city" src="https://github.com/user-attachments/assets/3ef05538-3221-4d9c-a4ab-991dc317dcd4" />
+<img width="1400" height="1000" alt="distribution_property_type_by_city" src="https://github.com/user-attachments/assets/5bcd9bf7-ac14-4b1c-a431-152c3106a916" />
 
+*Note: These reflect synthetic data which was randomly generated, so any trends are exaggerated or distorted.*
 
