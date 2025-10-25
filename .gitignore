@@ -1,0 +1,8 @@
+__pycache__/
+exports/
+catboost_info/
+optuna_log/
+model_results/
+.ipynb_checkpoints/
+Dataset.csv
+*.db
