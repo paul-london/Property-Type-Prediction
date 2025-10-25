@@ -115,7 +115,7 @@ For complete guidelines, please see the application page.
 ---
 
 ## 🙌 Acknowledgments
-Special thanks to Berkshire Hathaway HomeServices, mentor [Dr. Ernest Bonat](https://github.com/ebonat), other collaborators, and Elvira Chorna at TripleTen.
+Special thanks to Berkshire Hathaway HomeServices, project mentor [Dr. Ernest Bonat](https://github.com/ebonat), my team members, other project collaborators, and Elvira Chorna at TripleTen.
 
 ---
 
@@ -135,6 +135,7 @@ Below are sample outputs and visualizations from the [HomeServices Notebook](htt
 <img width="1400" height="1000" alt="distribution_property_type_by_city" src="https://github.com/user-attachments/assets/5bcd9bf7-ac14-4b1c-a431-152c3106a916" />
 
 *Note: These reflect synthetic data which was randomly generated, so any trends are exaggerated or distorted.*
+
 
 
 
