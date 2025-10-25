@@ -102,7 +102,7 @@ For complete guidelines, please see the application page.
 ---
 
 ## 🔑 Keywords
-`Machine Learning` • `Real Estate Analytics` • `Streamlit` • `Property Classification` • `LightGBM` • `Feature Engineering` • `Data Science` • `Python`
+`Machine Learning` • `Real Estate Analytics` • `Streamlit` • `Property Classification` • `LightGBM` • `Feature Engineering` • `Data Science` • `Python` • `Optuna`
 
 ---
 
@@ -134,5 +134,6 @@ Below are sample outputs and visualizations from the [HomeServices Notebook](htt
 <img width="1400" height="1000" alt="distribution_property_type_by_city" src="https://github.com/user-attachments/assets/5bcd9bf7-ac14-4b1c-a431-152c3106a916" />
 
 *Note: These reflect synthetic data which was randomly generated, so any trends are exaggerated or distorted.*
+
 
 
