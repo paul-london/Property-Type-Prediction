@@ -123,4 +123,11 @@ Special thanks to Berkshire Hathaway HomeServices, mentor [Dr. Ernest Bonat](htt
 This repository does not include any proprietary, private, or real-world client data.
 All data are synthetic to protect confidentiality.
 
+---
+
+## 📈 Example Visualizations
+
+Below are sample outputs and visualizations from the Property Type Prediction Notebook:
+
+<img width="1349" height="452" alt="violinplot_bd_bath_processed" src="https://github.com/user-attachments/assets/bef0ffb3-d105-4e11-a63d-db0fbcbd24a7" />
 
