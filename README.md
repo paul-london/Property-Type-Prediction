@@ -24,13 +24,14 @@ This project demonstrates end-to-end data processing, model development, and rea
    - Handling missing values, outlier filtering, and feature scaling.  
    - Categorical encoding via `OneHotEncoder` and `LabelEncoder`.
 
-2. **Modeling:**  
+2. **Modeling:**
+   - Initial benchmarking with LazyClassifier.
    - Primary models: LightGBM, CatBoost, and XGBoost, RandomForest.
    - Comparison of stratification and encoding methodologies prior to modeling.    
    - Hyperparameter tuning with Optuna for performance optimization.
    - Evaluation metrics: Accuracy, Precision, Recall, and F1-Score.
 
-3. **Deployment:**  
+4. **Deployment:**  
    - Streamlit app for accessible, browser-based prediction interface.  
    - Artifacts (`model.pkl`, `ohe.pkl`, `le.pkl`, `scaler.pkl`) stored for versioned reuse.
 
@@ -134,6 +135,7 @@ Below are sample outputs and visualizations from the [HomeServices Notebook](htt
 <img width="1400" height="1000" alt="distribution_property_type_by_city" src="https://github.com/user-attachments/assets/5bcd9bf7-ac14-4b1c-a431-152c3106a916" />
 
 *Note: These reflect synthetic data which was randomly generated, so any trends are exaggerated or distorted.*
+
 
 
 
