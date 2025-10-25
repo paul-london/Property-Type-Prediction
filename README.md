@@ -25,8 +25,9 @@ This project demonstrates end-to-end data processing, model development, and rea
    - Categorical encoding via `OneHotEncoder` and `LabelEncoder`.
 
 2. **Modeling:**  
-   - Primary models: LightGBM, CatBoost, and XGBoost.  
-   - Hyperparameter tuning with Optuna for performance optimization.  
+   - Primary models: LightGBM, CatBoost, and XGBoost, RandomForest.
+   - Comparison of stratification and encoding methodologies prior to modeling.    
+   - Hyperparameter tuning with Optuna for performance optimization.
    - Evaluation metrics: Accuracy, Precision, Recall, and F1-Score.
 
 3. **Deployment:**  
@@ -121,4 +122,5 @@ Special thanks to Berkshire Hathaway HomeServices, mentor [Dr. Ernest Bonat](htt
 
 This repository does not include any proprietary, private, or real-world client data.
 All data are synthetic to protect confidentiality.
+
 
