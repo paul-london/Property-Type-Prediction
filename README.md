@@ -112,11 +112,13 @@ For complete guidelines, please see the application page.
 
 ---
 
-## 📜 License
-This project is distributed under the **MIT License**.  
-See `LICENSE` file for details.
+## 🙌 Acknowledgments
+Special thanks to Berkshire Hathaway HomeServices, mentor [Dr. Ernest Bonat](https://github.com/ebonat), other collaborators, and Elvira Chorna at TripleTen.
 
 ---
 
-## 🙌 Acknowledgments
-Special thanks to mentor [Dr. Ernest Bonat](https://github.com/ebonat), other collaborators, and Elvira Chorna at TripleTen.
+## 🔒 Data Privacy Notice
+
+This repository does not include any proprietary, private, or real-world client data.
+All data are synthetic to protect confidentiality.
+
