@@ -4,5 +4,7 @@ catboost_info/
 optuna_log/
 model_results/
 .ipynb_checkpoints/
+images/
 Dataset.csv
 *.db
+
