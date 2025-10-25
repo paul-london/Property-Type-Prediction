@@ -8,7 +8,7 @@ import pickle
 # Establishing constants
 TARGETS = ["ATTACHD", "CONDO", "DETACHD"]
 CITIES = ["Portland", "Beaverton", "Hillsboro", "Lake Oswego", "West Link"]
-COMPANY_LOGO = st.image("https://content.mediastg.net/static/RealEstate/company/3/012-logo.png")
+#COMPANY_LOGO = st.image("logo.png") Company logo was removed for privacy reasons
 
 st.header("Predict Property Type")
 
@@ -126,4 +126,5 @@ if file is not None:
             on_click = "ignore",
             icon = ":material/download:"
         )
+
 
