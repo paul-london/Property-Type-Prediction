@@ -90,7 +90,7 @@ For complete guidelines, please see the application page.
 
 ---
 
-## 👥 Contributors
+## 👥 Team Members
 
 | Name | Role | Email | GitHub | LinkedIn |
 |------|------|----------|--------|-------|
